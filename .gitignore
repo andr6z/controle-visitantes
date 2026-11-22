@@ -1,0 +1,28 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Banco de dados local
+db.sqlite3
+db.sqlite3-journal
+
+# Byte-compiled / cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Variáveis de ambiente e configurações locais
+.env
+.env.*
+
+# Arquivos estáticos e de mídia coletados
+staticfiles/
+media/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
